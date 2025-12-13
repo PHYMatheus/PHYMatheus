@@ -1,1 +1,17 @@
-## Olá! Seja Bem-vindo! 👋
+## Olá! Eu sou Matheus!👋🏽⚡
+**`Desenvolvedor Back-End`**
+
+- 🎓 Atualmente Estudando de T.I em Constante Aprendizado!
+- ⚡ Atualmente estudando Java e Spring boot.
+
+Me chamo Matheus Guilherme, tenho 23 anos e sou natural de Pernambuco - Vitória de Santos Antão. Atualmente, estou cursando Sistemas de Informação na Unifacol. Sou apaixonado por Tecnologia e busco conhecimentos para aprimorar minhas habilidades, com Objetivo de Solucionar problemas reais através de códigos e Softwares Confiavéis e escalaveis.
+
+
+
+ 
+<div> 
+  <a href="https://www.instagram.com/matheus._22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_red"></a>
+ <a href="https://discord.gg/URGtuqQj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:matheusguilherme00221@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_Blank"></a>
+  <a href="https://www.linkedin.com/in/matheusgui-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
