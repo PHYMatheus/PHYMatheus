@@ -83,7 +83,11 @@ Me chamo Matheus Guilherme, tenho 23 anos e sou natural de Pernambuco - Vitória
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
-### 📊 Estatisticas
+
+<br clear="left"/>
+
+## 📊 Estatísticas
+
 
 <p align="left">
   <img
