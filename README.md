@@ -15,3 +15,66 @@ Me chamo Matheus Guilherme, tenho 23 anos e sou natural de Pernambuco - Vitória
   <a href = "mailto:https://mail.google.com/mail/?view=cm&fs=1&to=matheusguilherme00221@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_Blank"></a>
   <a href="https://www.linkedin.com/in/matheusgui-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+## Tecnologias & Ferramentas ⚙⚡
+
+
+<img 
+    align="left" 
+    alt="Intellij"
+    title="Intellij" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Vscode"
+    title="Vscode" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+<img 
+    align="left" 
+    alt="aws"
+    title="aws" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="git"
+    title="git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img 
+    align="left" 
+    alt="sql"
+    title="sql" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="php"
+    title="php" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+
+
+          
