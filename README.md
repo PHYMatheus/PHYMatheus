@@ -83,4 +83,24 @@ Me chamo Matheus Guilherme, tenho 23 anos e sou natural de Pernambuco - Vitória
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
+### 📊 Estatisticas
+<p>
+ <img
+alinhar="esquerda"
+alt="Estatisticas do Github"
+altura="200"
+style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api?username=PHYMatheus&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+ />
+
+<img
+ alinhar="esquerda"
+ alt="Estatísticas do Github"
+ altura="200"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHYMatheus&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+ />
+ </p>
+
+
+
           
