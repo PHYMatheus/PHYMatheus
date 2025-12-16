@@ -7,24 +7,37 @@
 Me chamo Matheus Guilherme, tenho 23 anos e sou natural de Pernambuco - Vitória de Santos Antão. Atualmente, estou cursando Sistemas de Informação na Unifacol. Sou apaixonado por Tecnologia e busco conhecimentos para aprimorar minhas habilidades, com Objetivo de Solucionar problemas reais através de códigos e Softwares Confiavéis e escalaveis.
 
 
- 
-<div>
+<div align="center">
   <a href="https://www.instagram.com/matheus._22/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
   </a>
 
   <a href="https://discord.gg/URGtuqQj" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Discord"
+    />
   </a>
 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=matheusguilherme00221@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
 
   <a href="https://www.linkedin.com/in/matheusgui-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 </div>
+
+
 
 
 ## Tecnologias & Ferramentas ⚙⚡
