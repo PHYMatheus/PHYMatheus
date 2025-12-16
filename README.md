@@ -4,13 +4,14 @@
 
 **`Desenvolvedor Back-End`**
  
-- 🎓 Atualmente Estudando de T.I em Constante Aprendizado!
-- ⚡ Atualmente estudando Java e Spring boot.
+- 🎓 Cursando Sistemas de Informação (UNIFACOL)
+- ⚡ Estudando Java e Spring boot.
 - 🚩 Pernambuco, Vitória de Santo antão.
-- 💡 Apaixonado por Tecnologia e resolução de Problemas.
+- 🚀 Foco em APIs REST, boas práticas e escalabilidade.
 ##
 
-Me chamo Matheus Guilherme, tenho 23 anos e sou natural de Pernambuco - Vitória de Santos Antão. Atualmente, estou cursando Sistemas de Informação na Unifacol. Sou apaixonado por Tecnologia e busco conhecimentos para aprimorar minhas habilidades, com Objetivo de Solucionar problemas reais através da tecnologia buscando melhor performace e escalabilidade.
+Me chamo Matheus Guilherme, tenho 23 anos e sou natural de Pernambuco - Vitória de Santos Antão, Sou apaixonado por Tecnologia e busco aprimorar minhas habilidades com foco em soluções tecnológicas escaláveis, 
+performáticas e confiáveis, voltadas à resolução de problemas reais.
 
 
 <div align="center">
@@ -123,6 +124,10 @@ Me chamo Matheus Guilherme, tenho 23 anos e sou natural de Pernambuco - Vitória
     />
   </picture>
 </p>
+
+## Projetos em Destaque 🚀
+
+- 🔹 Projeto Acadêmico: [Java POO](https://github.com/PHYMatheus/Projeto-Udemy).
 
 
 
