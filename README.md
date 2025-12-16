@@ -1,10 +1,16 @@
-## Olá! Eu sou Matheus!👋🏽⚡
-**`Desenvolvedor Full Stack`**
+<div align="center">
+  <h2>Olá! Eu sou Matheus Guilherme! 👋🏽⚡</h2>
+</div>
+
+**`Desenvolvedor Back-End`**
  
 - 🎓 Atualmente Estudando de T.I em Constante Aprendizado!
 - ⚡ Atualmente estudando Java e Spring boot.
+- 🚩 Pernambuco, Vitória de Santo antão.
+- 💡 Apaixonado por Tecnologia e resolução de Problemas.
+##
 
-Me chamo Matheus Guilherme, tenho 23 anos e sou natural de Pernambuco - Vitória de Santos Antão. Atualmente, estou cursando Sistemas de Informação na Unifacol. Sou apaixonado por Tecnologia e busco conhecimentos para aprimorar minhas habilidades, com Objetivo de Solucionar problemas reais através de códigos e Softwares Confiavéis e escalaveis.
+Me chamo Matheus Guilherme, tenho 23 anos e sou natural de Pernambuco - Vitória de Santos Antão. Atualmente, estou cursando Sistemas de Informação na Unifacol. Sou apaixonado por Tecnologia e busco conhecimentos para aprimorar minhas habilidades, com Objetivo de Solucionar problemas reais através da tecnologia buscando melhor performace e escalabilidade.
 
 
 <div align="center">
@@ -39,79 +45,60 @@ Me chamo Matheus Guilherme, tenho 23 anos e sou natural de Pernambuco - Vitória
 
 
 
+<h2 align="center">Tecnologias & Ferramentas ⚙⚡</h2>
 
-## Tecnologias & Ferramentas ⚙⚡
-
-<img 
-    align="left" 
-    alt="Intellij"
-    title="Intellij" 
-    width="30px" 
-    style="padding-right: 10px;" 
+<div align="center">
+  <img
+    alt="IntelliJ"
+    title="IntelliJ"
+    width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Vscode"
-    title="Vscode" 
-    width="30px" 
-    style="padding-right: 10px;" 
+  />
+  <img
+    alt="VSCode"
+    title="VSCode"
+    width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-/>
-<img 
-    align="left" 
-    alt="aws"
-    title="aws" 
-    width="30px" 
-    style="padding-right: 10px;" 
+  />
+  <img
+    alt="AWS"
+    title="AWS"
+    width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="git"
-    title="git" 
-    width="30px" 
-    style="padding-right: 10px;" 
+  />
+  <img
+    alt="Git"
+    title="Git"
+    width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img 
-    align="left" 
-    alt="sql"
-    title="sql" 
-    width="30px" 
-    style="padding-right: 10px;" 
+  />
+  <img
+    alt="SQL"
+    title="SQL"
+    width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
-<img 
-    align="left" 
+  />
+  <img
     alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    title="Java"
+    width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="php"
-    title="php" 
-    width="30px" 
-    style="padding-right: 10px;" 
+  />
+  <img
+    alt="PHP"
+    title="PHP"
+    width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
-<img 
-    align="left" 
+  />
+  <img
     alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    title="Python"
+    width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+  />
+</div>
 
-
-<br clear="left"/>
-
-##  Estatísticas 📊⚡
-
+##
 
 <p align="left">
   <img
