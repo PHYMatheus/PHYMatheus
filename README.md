@@ -133,17 +133,20 @@ sempre aplicando boas práticas e resolução de problemas reais.
 </p>
 
 ##
-
-## Projetos em Destaque 🚀
+<div align="center">
+<h2>Projetos em Destaque 🚀⚡</h2>
+</div>
 
  **🔹 Projeto Acadêmico: [NodeCode - Udemy](https://github.com/PHYMatheus/Projeto-Udemy) 🔹**
 - Aplicação de Principíos POO
 - Encapsulamento, Herança e Polimorfismo
 - Métodos Abstract e Classes Abstracts.
 
+<div align="center">
+  <h2>Fique à vontade para entrar em contato ou conferir meus projetos! 📞👨🏽‍💻 </h2>
+</div>
 
-## 📫 Fique à vontade para entrar em contato ou conferir meus projetos!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=BBH+Bloge&pause=1000&color=10FF2A&width=435&lines=Curtiu+o+Projeto%2C+Deixa+uma+Estrela!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=BBH+Bloge&pause=1000&color=10FF2A&width=435&lines=Curtiu+os+Projetos%3F+Deixa+uma+Estrela!+%E2%AD%90)](https://git.io/typing-svg)
 
 <div align="center">
   <img
