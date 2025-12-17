@@ -1,6 +1,12 @@
-<div align="center">
-  <h2>Olá! Eu sou Matheus Guilherme! 👋🏽⚡</h2>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px;">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=10FF2A&width=560&lines=Ol%C3%A1%2C+Eu+sou+Matheus+Guilherme!"
+    alt="Typing SVG"
+  />
 </div>
+
+
+
 
 **`Desenvolvedor Back-End`**
  
@@ -135,8 +141,15 @@ sempre aplicando boas práticas e resolução de problemas reais.
 - Encapsulamento, Herança e Polimorfismo
 - Métodos Abstract e Classes Abstracts.
 
+
+## 📫 Fique à vontade para entrar em contato ou conferir meus projetos!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=BBH+Bloge&pause=1000&color=10FF2A&width=435&lines=Curtiu+o+Projeto%2C+Deixa+uma+Estrela!)](https://git.io/typing-svg)
+
 <div align="center">
-  <h2> Fique à vontade para entrar em contato ou conferir meus projetos! 💻🔥</h2>
+  <img
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGswNmZpZmNrcW5wd2FpbGxteHdsNDE1NjI1bGdxa3d6dDFpNTRmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif"
+    width="300"
+  />
 </div>
 
 
