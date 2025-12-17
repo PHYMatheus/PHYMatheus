@@ -136,9 +136,12 @@ Tenho 23 anos e sou estudante de Sistemas de Informação, buscando constante ap
 - Encapsulamento, Herança e Polimorfismo
 - Métodos Abstratos e Classes Abstratas.
 
+##
+
 <div align="center">
-  <h2>Fique à vontade para entrar em contato, colaborar em projetos ou trocar experiências. 📞👨🏽‍💻 </h2>
+  <h3><strong>Fique à vontade para entrar em contato, contribuir em projetos e trocar experiências. 📞👨🏽‍💻</strong></h3>
 </div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10FF2A&center=true&vCenter=true&width=520&lines=Curtiu+os+Projetos%3F+Deixa+uma+Estrela!" />
