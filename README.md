@@ -16,11 +16,6 @@
 - 🚀 Foco em APIs REST, boas práticas e escalabilidade.
 ##
 
-Sou desenvolvedor Back-End, estudante de Sistemas de Informação, com foco em Java e Spring Boot. 
-Tenho interesse em desenvolver APIs REST escaláveis, performáticas e bem estruturadas, 
-sempre aplicando boas práticas e resolução de problemas reais.
-
-
 <div align="center">
   <a href="https://www.instagram.com/matheus._22/" target="_blank">
     <img
@@ -140,7 +135,7 @@ sempre aplicando boas práticas e resolução de problemas reais.
  **🔹 Projeto Acadêmico: [NodeCode - Udemy](https://github.com/PHYMatheus/Projeto-Udemy) 🔹**
 - Aplicação de Principíos POO
 - Encapsulamento, Herança e Polimorfismo
-- Métodos Abstract e Classes Abstracts.
+- Métodos Abstratos e Classes Abstratas.
 
 <div align="center">
   <h2>Fique à vontade para entrar em contato ou conferir meus projetos! 📞👨🏽‍💻 </h2>
