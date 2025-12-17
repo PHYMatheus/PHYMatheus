@@ -5,9 +5,6 @@
   />
 </div>
 
-
-
-
 **`Desenvolvedor Back-End`**
  
 - 🎓 Cursando Sistemas de Informação (UNIFACOL)
