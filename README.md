@@ -16,6 +16,8 @@
 - 🚀 Foco em APIs REST, boas práticas e escalabilidade.
 ##
 
+Tenho 23 anos e sou estudante de Sistemas de Informação, buscando constante aprendizado por meio da tecnologia para solucionar problemas reais, desenvolvendo códigos focados em performance, escalabilidade e boas práticas.
+
 <div align="center">
   <a href="https://www.instagram.com/matheus._22/" target="_blank">
     <img
@@ -132,8 +134,8 @@
 <h2>Projetos em Destaque 🚀⚡</h2>
 </div>
 
- **🔹 Projeto Acadêmico: [NodeCode - Udemy](https://github.com/PHYMatheus/Projeto-Udemy) 🔹**
-- Aplicação de Principíos POO
+ **🔹 Projeto Acadêmico: [Udemy](https://github.com/PHYMatheus/Projeto-Udemy) 🔹**
+- Aplicação de PrincÍpios POO
 - Encapsulamento, Herança e Polimorfismo
 - Métodos Abstratos e Classes Abstratas.
 
@@ -141,7 +143,7 @@
   <h2>Fique à vontade para entrar em contato ou conferir meus projetos! 📞👨🏽‍💻 </h2>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=BBH+Bloge&pause=1000&color=10FF2A&width=435&lines=Curtiu+os+Projetos%3F+Deixa+uma+Estrela!+%E2%AD%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fire+code&pause=1000&color=10FF2A&width=435&lines=Curtiu+os+Projetos%3F+Deixa+uma+Estrela!+%E2%AD%90)](https://git.io/typing-svg)
 
 <div align="center">
   <img
