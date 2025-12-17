@@ -137,8 +137,7 @@ Tenho 23 anos e sou estudante de Sistemas de Informação, buscando constante ap
 - Métodos Abstratos e Classes Abstratas.
 
 <div align="center">
-  <h2>📫 Fique à vontade para entrar em contato, colaborar em projetos ou trocar experiências sobre desenvolvimento back-end.
- 📞👨🏽‍💻 </h2>
+  <h2>Fique à vontade para entrar em contato, colaborar em projetos ou trocar experiências. 📞👨🏽‍💻 </h2>
 </div>
 
 <p align="center">
