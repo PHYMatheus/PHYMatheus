@@ -130,7 +130,7 @@ sempre aplicando boas práticas e resolução de problemas reais.
 
 ## Projetos em Destaque 🚀
 
-- 🔹 Projeto Acadêmico: [NodeCode - Udemy](https://github.com/PHYMatheus/Projeto-Udemy).
+ **🔹 Projeto Acadêmico: [NodeCode - Udemy](https://github.com/PHYMatheus/Projeto-Udemy) 🔹**
 - Aplicação de Principíos POO
 - Encapsulamento, Herança e Polimorfismo
 - Métodos Abstract e Classes Abstracts.
