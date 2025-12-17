@@ -13,7 +13,7 @@
 - 🚀 Foco em APIs REST, boas práticas e escalabilidade.
 ##
 
-Tenho 23 anos e sou estudante de Sistemas de Informação, buscando constante aprendizado por meio da tecnologia para solucionar problemas reais, desenvolvendo códigos focados em performance, escalabilidade e boas práticas.
+Tenho 23 anos e sou estudante de Sistemas de Informação, em constante aprendizado por meio da tecnologia para solucionar problemas reais, desenvolvendo códigos com foco em performance, escalabilidade e boas práticas.
 
 <div align="center">
   <a href="https://www.instagram.com/matheus._22/" target="_blank">
