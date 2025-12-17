@@ -131,6 +131,9 @@ sempre aplicando boas práticas e resolução de problemas reais.
 ## Projetos em Destaque 🚀
 
 - 🔹 Projeto Acadêmico: [Java POO](https://github.com/PHYMatheus/Projeto-Udemy).
+- Aplicação de Principíos POO
+- Encapsulamento, Herança e Polimorfismo
+- Métodos Abstract e Classes Abstracts.
 
 
 
