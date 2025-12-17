@@ -10,8 +10,9 @@
 - 🚀 Foco em APIs REST, boas práticas e escalabilidade.
 ##
 
-Me chamo Matheus Guilherme, tenho 23 anos e sou natural de Pernambuco - Vitória de Santos Antão, Sou apaixonado por Tecnologia e busco aprimorar minhas habilidades com foco em soluções tecnológicas escaláveis, 
-performáticas e confiáveis, voltadas à resolução de problemas reais.
+Sou desenvolvedor Back-End, estudante de Sistemas de Informação, com foco em Java e Spring Boot. 
+Tenho interesse em desenvolver APIs REST escaláveis, performáticas e bem estruturadas, 
+sempre aplicando boas práticas e resolução de problemas reais.
 
 
 <div align="center">
@@ -101,7 +102,7 @@ performáticas e confiáveis, voltadas à resolução de problemas reais.
 
 ##
 
-<p align="left">
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=PHYMatheus&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     height="200"
@@ -124,6 +125,8 @@ performáticas e confiáveis, voltadas à resolução de problemas reais.
     />
   </picture>
 </p>
+
+##
 
 ## Projetos em Destaque 🚀
 
