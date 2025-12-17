@@ -143,9 +143,9 @@ Tenho 23 anos e sou estudante de Sistemas de Informação, buscando constante ap
   <h2>Fique à vontade para entrar em contato ou conferir meus projetos! 📞👨🏽‍💻 </h2>
 </div>
 
-<div align="center"
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=10FF2A&width=435&lines=Curtiu+os+Projetos%3F+Deixa+uma+Estrela!+%E2%AD%90)](https://git.io/typing-svg)
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10FF2A&center=true&vCenter=true&width=520&lines=Curtiu+os+Projetos%3F+Deixa+uma+Estrela!" />
+</p>
 
 <div align="center">
   <img
