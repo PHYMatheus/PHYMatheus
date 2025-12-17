@@ -135,7 +135,7 @@ Tenho 23 anos e sou estudante de Sistemas de Informação, buscando constante ap
 </div>
 
  **🔹 Projeto Acadêmico: [Udemy](https://github.com/PHYMatheus/Projeto-Udemy) 🔹**
-- Aplicação de PrincÍpios POO
+- Aplicação de Princípios POO
 - Encapsulamento, Herança e Polimorfismo
 - Métodos Abstratos e Classes Abstratas.
 
@@ -143,7 +143,9 @@ Tenho 23 anos e sou estudante de Sistemas de Informação, buscando constante ap
   <h2>Fique à vontade para entrar em contato ou conferir meus projetos! 📞👨🏽‍💻 </h2>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fire+code&pause=1000&color=10FF2A&width=435&lines=Curtiu+os+Projetos%3F+Deixa+uma+Estrela!+%E2%AD%90)](https://git.io/typing-svg)
+<div align="center"
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=10FF2A&width=435&lines=Curtiu+os+Projetos%3F+Deixa+uma+Estrela!+%E2%AD%90)](https://git.io/typing-svg)
+</div>
 
 <div align="center">
   <img
