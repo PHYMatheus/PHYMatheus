@@ -102,16 +102,19 @@ Tenho 23 anos e sou estudante de Sistemas de Informação, em constante aprendiz
 
 ##
 
-<p align="center">
+<div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=PHYMatheus&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=PHYMatheus&show_icons=true&theme=tokyonight&include_all_commits=true"
+    height="180"
+    style="display: inline-block;"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHYMatheus&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHYMatheus&theme=tokyonight&layout=compact&langs_count=9"
+    height="180"
+    style="display: inline-block;"
   />
-</p>
+</div>
+
 
 <p align="center">
   <picture>
