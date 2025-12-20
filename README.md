@@ -33,7 +33,7 @@ Estou em constante evolução com **Spring Boot** e boas práticas de arquitetur
       alt="Discord"
     />
     
-  <a href="mailto:matheusguilherme00221@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Matheus,%20queria%20saber%20mais%20sobre%20seus%20trabalhos!">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=matheusguilherme00221@gmail.com&su=Contato%20via%20GitHub&body=Olá%20Matheus,%20queria%20saber%20mais%20sobre%20seus%20trabalhos!" target="_blank">
   <img
     src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Gmail"
