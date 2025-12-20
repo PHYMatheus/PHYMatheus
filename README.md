@@ -140,10 +140,10 @@ Estou em constante evolução com **Spring Boot** e boas práticas de arquitetur
 
  **🔹 Projeto Acadêmico: [Plataforma de Cursos Estilo Udemy](https://github.com/PHYMatheus/Projeto-Udemy) 🔹**
 
-*Desenvolvimento de um sistema modular para gestão de cursos e alunos, focado na solidez da arquitetura orientada a objetos.*
+**`Desenvolvimento de um sistema modular para gestão de cursos e alunos, focado na solidez da arquitetura orientada a objetos.`**
 
 - **Tecnologias:** Java, Conceitos avançados de POO.
-- **O que aprendi/apliquei:**
+- **`O que aprendi/apliquei:`**
 - Implementação de **Polimorfismo e Herança** para redução de duplicidade de código.
 - Uso de **Classes e Métodos Abstratos** para criar estruturas flexíveis e extensíveis.
 - Tratamento de exceções personalizadas para garantir a resiliência do sistema.
