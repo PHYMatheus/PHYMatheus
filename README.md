@@ -13,7 +13,11 @@
 - 🚀 Foco em APIs REST, boas práticas e escalabilidade.
 ##
 
-Tenho 23 anos e sou estudante de Sistemas de Informação, em constante aprendizado por meio da tecnologia para solucionar problemas reais, desenvolvendo códigos com foco em performance, escalabilidade e boas práticas.
+## 🚀 Sobre Mim
+
+Tenho 23 anos, sou graduando em Sistemas de Informação e um entusiasta do ecossistema **Java**. Meu foco é construir o "coração" das aplicações: o Back-End. Trabalho no desenvolvimento de **APIs REST** robustas, priorizando sempre a escrita de código limpo (Clean Code), a escalabilidade e a performance. 
+
+Estou em constante evolução com **Spring Boot** e boas práticas de arquitetura para transformar problemas complexos em soluções digitais eficientes.
 
 <div align="center">
   <a href="https://www.instagram.com/matheus._22/" target="_blank">
@@ -29,7 +33,6 @@ Tenho 23 anos e sou estudante de Sistemas de Informação, em constante aprendiz
       alt="Discord"
     />
   </a>
-
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=matheusguilherme00221@gmail.com" target="_blank">
     <img
       src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
@@ -80,6 +83,7 @@ Tenho 23 anos e sou estudante de Sistemas de Informação, em constante aprendiz
     width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
   />
+<img alt="Spring" title="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img
     alt="Java"
     title="Java"
@@ -134,10 +138,15 @@ Tenho 23 anos e sou estudante de Sistemas de Informação, em constante aprendiz
 <h2>Projetos em Destaque 🚀⚡</h2>
 </div>
 
- **🔹 Projeto Acadêmico: [Udemy](https://github.com/PHYMatheus/Projeto-Udemy) 🔹**
-- Aplicação de Princípios POO
-- Encapsulamento, Herança e Polimorfismo
-- Métodos Abstratos e Classes Abstratas.
+ **🔹 Projeto Acadêmico: [Plataforma de Cursos Estilo Udemy](https://github.com/PHYMatheus/Projeto-Udemy) 🔹**
+
+*Desenvolvimento de um sistema modular para gestão de cursos e alunos, focado na solidez da arquitetura orientada a objetos.*
+
+- **Tecnologias:** Java, Conceitos avançados de POO.
+- **O que aprendi/apliquei:**
+- Implementação de **Polimorfismo e Herança** para redução de duplicidade de código.
+- Uso de **Classes e Métodos Abstratos** para criar estruturas flexíveis e extensíveis.
+- Tratamento de exceções personalizadas para garantir a resiliência do sistema.
 
 ##
 
