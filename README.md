@@ -32,13 +32,12 @@ Estou em constante evolução com **Spring Boot** e boas práticas de arquitetur
       src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
       alt="Discord"
     />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=matheusguilherme00221@gmail.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
+  <a href="mailto:matheusguilherme00221@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Matheus,%20queria%20saber%20mais%20sobre%20seus%20trabalhos!">
+  <img
+    src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
+</a>
 
   <a href="https://www.linkedin.com/in/matheusgui-dev/" target="_blank">
     <img
