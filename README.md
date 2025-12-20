@@ -1,4 +1,4 @@
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 6px;">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=10FF2A&width=560&lines=Ol%C3%A1%2C+Eu+sou+Matheus+Guilherme!"
     alt="Typing SVG"
@@ -13,7 +13,7 @@
 - 🚀 Foco em APIs REST, boas práticas e escalabilidade.
 ##
 
-## 🚀 Sobre Mim
+## 🚀👨🏽‍💻 Sobre Mim
 
 Tenho 23 anos, sou graduando em Sistemas de Informação e um entusiasta do ecossistema **Java**. Meu foco é construir o "coração" das aplicações: o Back-End. Trabalho no desenvolvimento de **APIs REST** robustas, priorizando sempre a escrita de código limpo (Clean Code), a escalabilidade e a performance. 
 
@@ -132,7 +132,7 @@ Estou em constante evolução com **Spring Boot** e boas práticas de arquitetur
 **`Desenvolvimento de um sistema modular para gestão de cursos e alunos, focado na solidez da arquitetura orientada a objetos.`**
 
 - **Tecnologias:** Java, Conceitos avançados de POO.
-    - **`O que aprendi/apliquei:`**
+- **`O que aprendi/apliquei:`**
 - Implementação de **Polimorfismo e Herança** para redução de duplicidade de código.
 - Uso de **Classes e Métodos Abstratos** para criar estruturas flexíveis e extensíveis.
 - Tratamento de exceções personalizadas para garantir a resiliência do sistema.
