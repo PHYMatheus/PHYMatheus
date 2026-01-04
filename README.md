@@ -5,13 +5,13 @@
   />
 </div>
 
-**`Desenvolvedor Back-End`**
+**`Developer Back-End`**
  
 - 🎓 Cursando Sistemas de Informação (UNIFACOL)
 - ⚡ Estudando Java e Spring boot.
 - 🚩 Pernambuco, Vitória de Santo antão.
 - 🚀 Foco em APIs REST, boas práticas e escalabilidade.
-##
+
 
 ## 🚀👨🏽‍💻 Sobre Mim
 
