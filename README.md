@@ -1,10 +1,9 @@
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 6px;">
+<div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=10FF2A&width=560&lines=Ol%C3%A1%2C+Eu+sou+Matheus+Guilherme!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=10FF2A&width=560&lines=Ol%C3%A1%2C+Eu+sou+Matheus+Guilherme!+%F0%9F%91%8B%F0%9F%8F%BD"
     alt="Typing SVG"
   />
 </div>
-
 
 **`Developer Back-End`**
  
