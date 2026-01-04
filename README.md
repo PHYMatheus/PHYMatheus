@@ -5,6 +5,7 @@
   />
 </div>
 
+
 **`Developer Back-End`**
  
 - 🎓 Cursando Sistemas de Informação (UNIFACOL)
@@ -13,11 +14,14 @@
 - 🚀 Foco em APIs REST, boas práticas e escalabilidade.
 
 
+##
+
 ## 🚀👨🏽‍💻 Sobre Mim
 
 Tenho 23 anos, sou graduando em Sistemas de Informação e um entusiasta do ecossistema **Java**. Meu foco é construir o "coração" das aplicações: o Back-End. Trabalho no desenvolvimento de **APIs REST** robustas, priorizando sempre a escrita de código limpo (Clean Code), a escalabilidade e a performance. 
 
 Estou em constante evolução com **Spring Boot** e boas práticas de arquitetura para transformar problemas complexos em soluções digitais eficientes.
+
 
 <div align="center">
   <a href="https://www.instagram.com/matheus._22/" target="_blank">
@@ -94,20 +98,6 @@ Estou em constante evolução com **Spring Boot** e boas práticas de arquitetur
 </div>
 
 ##
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PHYMatheus&show_icons=true&theme=tokyonight&include_all_commits=true"
-    height="180"
-    style="display: inline-block;"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHYMatheus&theme=tokyonight&layout=compact&langs_count=9"
-    height="180"
-    style="display: inline-block;"
-  />
-</div>
-
 
 <p align="center">
   <picture>
