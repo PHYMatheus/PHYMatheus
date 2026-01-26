@@ -5,7 +5,7 @@
   />
 </div>
 
-**`Developer Back-End`**
+**`Developer Full-Stack`**
  
 - 🎓 Cursando Sistemas de Informação (UNIFACOL)
 - ⚡ Estudando Java e Spring boot.
